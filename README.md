@@ -1,3 +1,9 @@
+### created with tutorial found here:
+https://www.youtube.com/watch?v=qZXt1Aom3Cs
+
+
+
+
 # vue-task-tracker
 
 ## Project setup
